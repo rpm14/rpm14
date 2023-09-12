@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ryan Moore
-- 👀 I’m interested in Biostatistics
-- 🌱 I’m currently learning coding with Python through COMP 110 with Professor Kris Jordan.
+- 👀 I’m a senior from Oxford, MA in the BSPH Biostatistics Program at UNC-Chapel Hill
+- I have multiple years of experience with SAS through coursework and project work, and am currently taking an introductory R course as well.
 - 📫 How to reach me: Feel free to email me at ryan.moore@unc.edu .
 
 <!---
